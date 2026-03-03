@@ -1,1 +1,7 @@
 /*This is a CSS file*/
+.{
+    background-color: darkgrey;
+}
+.navbar{
+    list-style: none;
+}
